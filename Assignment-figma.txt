@@ -1,0 +1,31 @@
+Note: I would recommend to surf through the design as there are many micro interactions and how you will like the design.... Thankyou for this opportunity
+
+Prototype link: https://www.figma.com/proto/wAZ8phzvF3LjepdWUA2SYa/Neugence--Assignment?node-id=1-2&t=R8kGNUMbkqZeUSAr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+
+File link:
+https://www.figma.com/design/wAZ8phzvF3LjepdWUA2SYa/Neugence--Assignment?node-id=0-1&t=NSO5BccHHOeyF1pe-1
+
+Design Document:
+
+Project Name: 
+Neugence Assignment - Landing 
+
+PageObjective: 
+Design an engaging, user-friendly landing page that effectively communicates the product/service offering, encourages user interaction, and optimizes conversions.
+
+Target Audience:
+Students and professionals interested in data science, machine learning, and programming to enhance their learnings to shape their career.
+
+Design Goals:
+1. Clear & Engaging UI: Ensure a modern and intuitive design that enhances user engagement.
+
+2. Seamless UX: Optimize navigation and structure to guide users effortlessly toward the call-to-action (CTA).
+
+3. Responsiveness: Ensure compatibility across various devices using Auto Layout feature in Figma (desktop, tablet, mobile).
+
+4. Accessibility: Design for inclusivity with proper contrast, readable fonts, and keyboard-friendly navigation.
+
+Typography & Colors
+1. Font Style: Modern Epilongue/ Poppin.
+2. Primary Colors: Brand color of Acehub (blue,white,yellow) along with multi color sections to provide distinct ideas.
+3. Contrast & Readability: You can see the contrasting colors and well maintained same color theory on buttons. 
